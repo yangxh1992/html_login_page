@@ -216,7 +216,7 @@ form input.submit:hover {
     color: var(--white-color);
     box-shadow: none;
 }
-
+/*用STEAM PSN XBOX替换原先APPLE GOOGLE FACEBOOK图标*/
 .options ul li:nth-child(1) a:hover {
     background-color: #171a21;
 }
